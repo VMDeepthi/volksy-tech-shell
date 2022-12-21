@@ -1,2 +1,1 @@
-#!bin/bash
-hii shell
+script that prints the absolute path name of the current working directory
